@@ -1,0 +1,18 @@
+{
+    "author":"sreekar",
+    "name":"global",
+    "main":"calc10",
+    "description":"",
+    "dependencies":{},
+    "version": "0.0.1",
+    "repository":{
+        "type":"git",
+        "url":"https://github.com/tvps-sreekar/global"
+    },
+    "keywords":[
+        "global","calc10"
+    ],
+    "engines":{
+        "node":"*"
+    }
+}
