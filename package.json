@@ -1,0 +1,11 @@
+{
+    "author":"sreekar",
+    "name":"global",
+    "main":"calc10",
+    "description":"",
+    "dependencies":{},
+    "version": "0.0.1",
+    "engines":{
+        "node":"*"
+    }
+}
